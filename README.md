@@ -1,5 +1,5 @@
 # EEE5716 Final Project - Strong Arbiter PUF
-This is the repository for EEE5716 Introduction to Hardware Security and Trust Group 8's final project. It will contain all the code for the implementation of the Strong Arbiter PUF, as well as findings/results. It includes RTL code, testbenches, scripts, constraint files, and results used to implement and evaluate a 32-bit Strong Arbiter PUF.
+This is the repository for EEE5716 Introduction to Hardware Security and Trust's final project. It will contain all the code for the implementation of the Strong Arbiter PUF, as well as findings/results. It includes RTL code, testbenches, scripts, constraint files, and results used to implement and evaluate a 32-bit Strong Arbiter PUF.
 
 ## Author
 - Arif Hussain
