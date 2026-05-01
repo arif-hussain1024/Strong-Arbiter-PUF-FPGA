@@ -1,0 +1,40 @@
+# Don't upload larger Vivado files!!!
+**/.Xil/
+**/*.xpr
+**/*.runs/
+**/*.cache/
+**/*.hw/
+**/*.sim/
+**/*.jou
+**/*.log
+**/*.str
+
+# Vivado files
+*.jou
+*.log
+*.pb
+*.wdb
+.Xil/
+vivado*.backup.*
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+*.xpr
+
+# Data files (large)
+*.txt
+*.dat
+!README.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Results (optional - might want to keep)
+# Results/data/
+# Results/plots/
